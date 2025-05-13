@@ -1,0 +1,2 @@
+Situation types datasets
+The Situation types datasets consist of a total of 7 datasets, including 2 linguistic feature vector datasets extracted from large-scale corpora, as well as 4 datasets containing embedding vectors from Word2vec, FastText, Bert, and ChatGPT, and finally the complete dataset for the prediction experiment, comprising 3133 verbs along with their corresponding FastText vectors and situation type labels.
