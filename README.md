@@ -36,7 +36,7 @@ This repository provides **7 datasets** for linguistic research and prediction e
 ## Citation
 If you use these datasets, please cite:
 ```bibtex
-@misc{ma2023situationtypes,
+@misc{ma2025situationtypes,
   author = {Ma, Xiaorui},
   title = {Situation Types Datasets},
   year = {2025},
